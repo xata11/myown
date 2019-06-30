@@ -1,6 +1,6 @@
 {
   "name":"Windows10",
-  "cssurls":"https://cdn.jsdelivr.net/gh/lokothodida/elfinder-theme-windows-10/windows-10/css/theme.css",
+  "cssurls":"https://raw.githubusercontent.com/xata11/myown/master/themes/windows10/css/theme.css",
   "author":"Lawrence Okoth-Odida",
   "email":"",
   "license":"MIT",
