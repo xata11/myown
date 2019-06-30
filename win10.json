@@ -1,0 +1,10 @@
+{
+  "name":"Windows10",
+  "cssurls":"https://cdn.jsdelivr.net/gh/lokothodida/elfinder-theme-windows-10/windows-10/css/theme.css",
+  "author":"Lawrence Okoth-Odida",
+  "email":"",
+  "license":"MIT",
+  "link":"https://github.com/lokothodida/elfinder-theme-windows-10",
+  "image":"https://cloud.githubusercontent.com/assets/4363863/9177364/bbafa306-3f88-11e5-932f-c5e581f9e0e4.png",
+  "description":"An elFinder theme that mimics Windows 10's user interface."
+}
